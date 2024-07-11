@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Alvon Jovanus</h1>
 <h3 align="center">A passionate Web Developer & Mobile Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Next.js Golang**
+- 🌱 I’m currently working as IT Application Developer at Panin Dai-ichi Life
 
 - 👨‍💻 All of my projects are available at [https://alvonjovanus.netlify.app/](https://alvonjovanus.netlify.app/)
 
 - 📫 How to reach me **alvonchan@gmail.com**
 
-- ⚡ Fun fact **Technology Enthusiast**
+- ⚡ **Technology Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
