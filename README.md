@@ -13,7 +13,7 @@
 
 - 👨‍💻 Check out my work at [alvonjovanus.netlify.app](https://alvonjovanus.netlify.app/)
 
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5938352f36373a313837193e34383035773a3634">[email&#160;protected]</a>**
+- 📫 Reach me at **alvonchan@gmail.com**
 
 > 💡 *Most of my day-to-day work lives in private enterprise repos — my open-source projects here are side projects and explorations.*
 
