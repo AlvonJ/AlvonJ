@@ -3,9 +3,7 @@
 
 <br>
 
-- 💼 Currently working as **IT Application Developer** at **Panin Dai-ichi Life**, developing mobile & web platforms for insurance operations
-
-- 🚀 Achieved **3x faster processing** (~60s → ~20s) by migrating SOAP to REST APIs and implementing parallel uploads
+- 💼 Currently working as **IT Application Developer** at **Panin Dai-ichi Life**, developing mobile & web platforms for insurance operations. Achieved **3x faster processing** insurance application (~60s → ~20s) by migrating SOAP to REST APIs and implementing parallel uploads
 
 - 🎓 Graduated with **Distinction** from Bangkit Academy (top 10% of 5,013 students) & hold a **Google Cloud Associate Cloud Engineer** certification
 
