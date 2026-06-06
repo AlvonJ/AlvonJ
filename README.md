@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvon Jovanus</h1>
-<h3 align="center">IT Application Developer building scalable technology solutions at Panin Dai-ichi Life</h3>
+<h3 align="center">Software Engineer at Panin Dai-ichi Life · Full-Stack Developer</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 - 🎯 GPA: **3.99 / 4.00** — Informatics Engineering, Universitas Kristen Maranatha
 
-- 👨‍💻 Check out my work at [alvonjovanus.netlify.app](https://alvonjovanus.netlify.app/)
+- 👨‍💻 Check out my work at [alvonjovanusc.netlify.app](https://alvonjovanusc.netlify.app/)
 
 - 📫 Reach me at **alvonchan@gmail.com**
 
